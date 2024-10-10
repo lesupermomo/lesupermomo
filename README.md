@@ -8,7 +8,7 @@
  🔭 Engineering high capacity deep learning generative models for healthcare
 
 # LeetCode Profile
-![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)](https://leetcode.com/lesupermomo)]
 
 
 
