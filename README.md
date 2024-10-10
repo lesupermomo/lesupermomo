@@ -1,4 +1,4 @@
-# Mohamed Mohamed
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/mohamed-mohamed-13455719b/))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/lesupermomo)
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
