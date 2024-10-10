@@ -2,17 +2,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mohamed-13455719b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/lesupermomo)
-[![LeetCode](https://img.shields.io/badge/Mila-9933CC?style=for-the-badge&logo=researchgate&logoColor=white)]([https://leetcode.com/lesupermomo](https://mila.quebec/en/directory/mohamed-mohamed))
+[![LeetCode](https://img.shields.io/badge/Mila-9933CC?style=for-the-badge&logo=researchgate&logoColor=white)](https://mila.quebec/en/directory/mohamed-mohamed)
 
  🌱 Master's Student in ML at McGill/Mila
  
  🔭 Engineering high capacity deep learning generative models for healthcare
 
 
-### LeetCode Profile
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)](https://leetcode.com/lesupermomo)]
+## LeetCode Profile
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)](https://leetcode.com/lesupermomo)
 
-### Top used technologies
+## Top used technologies
 
 [![Torch](https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
