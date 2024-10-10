@@ -5,7 +5,7 @@
 
  🌱 Master's Student in ML at McGill/Mila
  
- 🔭 Engineering high capacity generative models for healthcare
+ 🔭 Engineering high capacity deep learning generative models for healthcare
 
 # LeetCode Profile
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)
