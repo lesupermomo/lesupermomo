@@ -13,7 +13,7 @@
 
 
 ## LeetCode Profile
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?ext=contest)](https://leetcode.com/lesupermomo)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?)](https://leetcode.com/lesupermomo)
 
 ## Top used technologies
 
