@@ -13,7 +13,9 @@
 
 
 ## LeetCode Profile
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?theme=dark)](https://leetcode.com/lesupermomo)
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?theme=dark)](https://leetcode.com/lesupermomo) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?theme=dark&ext=contest)](https://leetcode.com/lesupermomo)
+
 
 ## Top used technologies
 
