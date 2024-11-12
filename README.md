@@ -16,7 +16,6 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?theme=dark)](https://leetcode.com/lesupermomo) 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/lesupermomo?theme=dark&ext=contest)](https://leetcode.com/lesupermomo) -->
 
-
 ## Top used technologies
 
 [![Torch](https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -28,7 +27,6 @@
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-
 
 
 <!--
